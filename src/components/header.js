@@ -1,5 +1,3 @@
-import Avatar from "@mui/material/Avatar";
-
 
 function Header() {
     return (
