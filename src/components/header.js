@@ -19,7 +19,7 @@ function Header() {
                 <img
                     alt="Profile pic"
                     className={"profile-banner-photo"}
-                    src={'./profile_pic.jpg'}
+                    src={'./pic.jpeg'}
                 />
             </div>
             
