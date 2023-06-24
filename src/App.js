@@ -19,7 +19,7 @@ function App() {
         <div className=' row testimonials'>
           <Testimonials />
         </div>
-        <div className="row example-centered">     
+        <div className="row timelineMain">     
          <Timeline /> 
         </div>
       </div>

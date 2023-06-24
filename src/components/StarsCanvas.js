@@ -51,11 +51,20 @@ export const Stars = () => {
        <>
            {/* <ReactNebula/> */}
 
-           <ReactNebula config={{
-               starsCount: 250,
-               starsRotationSpeed: 3,
-               nebulasIntensity: 8,
-           }}/>
+           <ReactNebula config={
+              {
+                "starsCount": 1000,
+                "starsColor": "#FFFFFF",
+                "starsRotationSpeed": 12.4,
+                "cometFrequence": 100,
+                "nebulasIntensity": 15,
+                "bgColor": "rgb(8,8,8)",
+                "sunScale": 1.7,
+                "planetsScale": 2.4,
+                "solarSystemOrbite": 57,
+                "solarSystemSpeedOrbit": 190
+            }
+           } />
        </>
    );
 }

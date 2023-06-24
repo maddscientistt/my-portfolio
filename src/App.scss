@@ -51,7 +51,7 @@
 
 .container-fluid {
     .row {
-        padding: 0 0 4em 0;
+        // padding: 1em 0 1em 0;
 
         &:nth-child(even) {
             background: white;
@@ -63,8 +63,11 @@
     //     top: -136px;
     //     height: 237px;
     // }
-    .testimonials{
+    .testimonials {
         height: 100px;
+    }
+    .timelineMain {
+        position: relative; 
     }
 }
 
