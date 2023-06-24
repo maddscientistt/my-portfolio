@@ -11,13 +11,54 @@ export default function Timeline() {
 
       <ul className="timelineDiv">
         <li>
+
           <div className="direction-r">
             <div className="flag-wrapper">
-              <span className="flag">Freelance</span>
-              <span className="time-wrapper"><span className="time">2010 - 2016</span></span>
+              <span className="flag">Full Stack Software developer</span>
+              <span className="time-wrapper"><span className="time">2023 - present</span></span>
             </div>
             <div className="desc">
-              Som freelance Fullstack Developer arbejder jeg med et hav af kunder, hjemmesider og apps. Jeg har tidligere designet og udviklet hjemmesider og andre løsninger for arkitekter, bilforhandlere, skoler, designere, fotografer og manger flere. Læs mere: <a href="https://tristanwhite.info" target="_top">https://tristanwhite.info</a>
+              <strong>Blackhawk Networks</strong> <br></br> Designed and built end-to-end UI features using ReactJS and Django for 4+ e-commerce web apps used by 479+ clients, and internationalised them for 6+ locales.: <a href="https://store.dsc.starbucks.co.jp/store-v2?locale=ja-jp" target="_top">https://starbucks.co.jp</a>
+            </div>
+            <br></br>
+            <div className="flag-wrapper">
+              <span className="flag">Associate Software developer</span>
+              <span className="time-wrapper"><span className="time">2021 - 2023</span></span>
+            </div>
+            <div className="desc">
+            <strong>Blackhawk Networks</strong> <br></br> Developed a production-ready web application for a gift card commerce solution by translating UI/UX design wireframes into high quality, reusable components using ReactJS, Redux and Context API.
+            </div>
+            <div className="desc">
+              Delivered a responsive, cross-browser compatible and accessibility compliant website in a short period of time by expanding features that resulted in smoother operations and increased user engagement.
+            </div>
+          </div>
+
+        </li>
+
+
+        <li>
+          <div className="direction-l">
+            <div className="flag-wrapper">
+              <span className="flag">Lead Developer</span>
+              <span className="time-wrapper"><span className="time">2022 - Present</span></span>
+            </div>
+            <div className="desc">
+            <strong>Gritly</strong> <br></br> Contributing actively and leading a team for the development of a product.
+            </div>
+          </div>
+        </li>
+
+        <li>
+          <div className="direction-r">
+            <div className="flag-wrapper">
+              <span className="flag">Software Engineer</span>
+              <span className="time-wrapper"><span className="time">2020 - 2021</span></span>
+            </div>
+            <div className="desc">
+            <strong>GigSky</strong> <br></br> Automated test scripts using Selenium Web Driver in Java.
+            </div>
+            <div className="desc">
+              Experience in writing Test Plans, Test Suits, Test Cases and Test Scripts from requirement sand Use-Cases.
             </div>
           </div>
         </li>
@@ -25,40 +66,19 @@ export default function Timeline() {
         <li>
           <div className="direction-l">
             <div className="flag-wrapper">
-              <span className="flag">Rundhøjskolen</span>
-              <span className="time-wrapper"><span className="time">2013 - 2016</span></span>
+              <span className="flag">SDE intern</span>
+              <span className="time-wrapper"><span className="time">2020 - 2020</span></span>
             </div>
             <div className="desc">
-              Som <strong>IT-vejleder</strong> på Rundhøjskolen er jeg ansvarlig for indkøb opsætning og vedligeholdelse af skolens IT-udstyr. Envidere står jeg får udvikling og vedligeholdelse af skolens hjemmeside, samt diverse mindre projekter, infoskærme og mere. I det daglige står jeg for support af skolens IT-udstyr samt support for elever så vel som kollegaer. Jeg underviser ugentligt et IT-valghold.
+              <strong>Shadowfax</strong> DevOps – Built CICD Pipeline for Android apps using Jenkins and webhooks.
+            </div>
+            <div className="desc">
+              Delivered python scripts for Data analysis on the Jenkins and JIRA using APIs.
             </div>
           </div>
         </li>
 
-        <li>
-          <div className="direction-r">
-            <div className="flag-wrapper">
-              <span className="flag">Serverhosting A/S</span>
-              <span className="time-wrapper"><span className="time">2012</span></span>
-            </div>
-            <div className="desc">
-              Hos Serverhosting prøvede jeg kræfter diverse netværksteknologier. Jeg konfigurerede og installerede routere, switche, servere. Jeg ydede support for kunder, samt stod for indkøb af ny hardware.
-            </div>
-          </div>
-        </li>
-
-
-        <li>
-          <div className="direction-l">
-            <div className="flag-wrapper">
-              <span className="flag">IT-teknolog</span>
-              <span className="time-wrapper"><span className="time">2010 - 2012</span></span>
-            </div>
-            <div className="desc">
-              Studerede IT-tekonologi på Aarhus Erhvervsakademi
-            </div>
-          </div>
-        </li>
-
+        
       </ul>
     </div>
   )
