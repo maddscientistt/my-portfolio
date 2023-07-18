@@ -1,15 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.abc9e2e2.css",
-    "main.js": "/static/js/main.dcc1ee30.js",
+    "main.css": "/static/css/main.bf83e751.css",
+    "main.js": "/static/js/main.bfe251d5.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/driverN.mp4": "/static/media/driverN.13302eb4fc3c206832eb.mp4",
+    "static/media/daylabourN.mp4": "/static/media/daylabourN.1c71339681c87a9a07fa.mp4",
+    "static/media/tailorVID420.mov": "/static/media/tailorVID420.39e6551243ab03763411.mov",
+    "static/media/Day labourNN.mov": "/static/media/Day labourNN.de2344c44a9d64afcdf6.mov",
+    "static/media/home8N.jpg": "/static/media/home8N.9f858d3c51ae29793abd.jpg",
+    "static/media/home5.jpg": "/static/media/home5.3aeb5b1df44924ffc7c3.jpg",
+    "static/media/chalkcarving.jpg": "/static/media/chalkcarving.9e783fb3413de6ae8672.jpg",
+    "static/media/sportsAwards.jpg": "/static/media/sportsAwards.dd926c51d62cc99d43dd.jpg",
+    "static/media/treehouse.jpg": "/static/media/treehouse.1fafb48e39d1ba5df13c.jpg",
+    "static/media/garage.jpg": "/static/media/garage.b4fa37f98f113b8f06c2.jpg",
     "index.html": "/index.html",
-    "main.abc9e2e2.css.map": "/static/css/main.abc9e2e2.css.map",
-    "main.dcc1ee30.js.map": "/static/js/main.dcc1ee30.js.map",
+    "main.bf83e751.css.map": "/static/css/main.bf83e751.css.map",
+    "main.bfe251d5.js.map": "/static/js/main.bfe251d5.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abc9e2e2.css",
-    "static/js/main.dcc1ee30.js"
+    "static/css/main.bf83e751.css",
+    "static/js/main.bfe251d5.js"
   ]
 }
